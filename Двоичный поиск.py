@@ -2,7 +2,13 @@ from random import randint
 import datetime
 
 
-def find_num(array, key):...
+def find_num(array, key):
+    """
+    Комментарий для теста
+    :param array:
+    :param key:
+    :return:
+    """
 
 
 def binary_search(array, key):
